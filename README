@@ -12,6 +12,6 @@ You can get it from http://www.sqlite.org/
 
 The module lsqlite3complete links SQLite3 statically.
 The SQLite3 amalgamation source code is included in 
-the LuaSQLite3 distribution.
+the LuaSQLite3 distribution (currently SQLite 3.54.1).
 
 Lua 5 is available from http://www.lua.org/
